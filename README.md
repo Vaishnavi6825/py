@@ -1,2 +1,1 @@
-# py
-tic tac toe
+This is a simple Tic-Tac-Toe game implemented in Python where a player faces off against a bot. The program features a game loop, alternating between player ('O') and bot ('X') moves. The loop exits upon a win or a draw. Player input is managed, ensuring valid moves. The code includes functions for checking wins and draws, displaying the board, and handling moves. A concise README provides an overview, code structure, game loop logic, player input details, outcome handling, user instructions, and closing remarks
